@@ -1,4 +1,8 @@
-## Hi there 👋
+### ☾ Hi, I'm Seowon Noh
+
+### About Me
+
+- B.Sc. in `Electrical Engineering` and `Industrial Design` in `KAIST`
 
 <!--
 **seowonnoh/seowonnoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
